@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\Regex\Exceptions\bin\Release\net6.0\Exceptions.exe
+C:\Users\acer\source\repos\Regex\Exceptions\bin\Release\net6.0\Exceptions.deps.json
+C:\Users\acer\source\repos\Regex\Exceptions\bin\Release\net6.0\Exceptions.runtimeconfig.json
+C:\Users\acer\source\repos\Regex\Exceptions\bin\Release\net6.0\Exceptions.dll
+C:\Users\acer\source\repos\Regex\Exceptions\bin\Release\net6.0\Exceptions.pdb
+C:\Users\acer\source\repos\Regex\Exceptions\obj\Release\net6.0\Exceptions.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Regex\Exceptions\obj\Release\net6.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\Regex\Exceptions\obj\Release\net6.0\Exceptions.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\Regex\Exceptions\obj\Release\net6.0\Exceptions.AssemblyInfo.cs
+C:\Users\acer\source\repos\Regex\Exceptions\obj\Release\net6.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Regex\Exceptions\obj\Release\net6.0\Exceptions.dll
+C:\Users\acer\source\repos\Regex\Exceptions\obj\Release\net6.0\refint\Exceptions.dll
+C:\Users\acer\source\repos\Regex\Exceptions\obj\Release\net6.0\Exceptions.pdb
+C:\Users\acer\source\repos\Regex\Exceptions\obj\Release\net6.0\Exceptions.genruntimeconfig.cache
+C:\Users\acer\source\repos\Regex\Exceptions\obj\Release\net6.0\ref\Exceptions.dll
